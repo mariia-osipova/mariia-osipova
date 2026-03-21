@@ -1,5 +1,5 @@
 Hi!
 
 I'm an AI engineering student  
-I like math and problem solving
+I like math, design, and problem solving
 
