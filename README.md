@@ -1,5 +1,5 @@
-Hi!
+ hi!
 
-I'm an AI engineering student  
-I like math, design, and problem solving
+i'm an AI engineering student  
+i like math, design, and problem solving
 
