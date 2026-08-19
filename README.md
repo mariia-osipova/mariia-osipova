@@ -1,4 +1,1 @@
-hi! im mariia
-
-i'm an AI engineering student  
-i like math, design, and problem solving
+i like robotics and clean design
