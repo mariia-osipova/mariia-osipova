@@ -1,1 +1,1 @@
-hi! i like robotics and clean design
+hi! i like robotics and clean functional design
